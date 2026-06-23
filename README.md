@@ -152,33 +152,6 @@ DSA                  █████████░░░░ 70%
 <img src="https://streak-stats.demolab.com?user=mrvrpatils&theme=tokyonight"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvrpatils&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mrvrpatils&theme=algolia&row=1&column=7"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> To enable this section, create a GitHub Action using Platane/snk.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # 💡 Fun Facts
 
